@@ -4,7 +4,7 @@ The Numenta Anomaly Benchmark (NAB) is a novel benchmark for evaluating algorith
 # NAB Data Corpus
 The NAB corpus of 58 timeseries data files is designed to provide data for research in streaming anomaly detection. It is comprised of both real-world and artifical timeseries data containing labeled anomalous periods of behavior. Data are ordered, timestamped, single-valued metrics. All data files contain anomalies, unless otherwise noted.
 
-The majority of the data is real-world from a variety of sources such as AWS server metrics, Twitter volume, advertisement clicking metrics, traffic data, and more. All data is included in the repository, with more details in the data readme. We are in the process of adding more data, and actively searching for more data. Please contact us at nab@numenta.org if you have similar data (ideally with known anomalies) that you would like to see incorporated into NAB.
+The majority of the data is real-world from a variety of sources such as AWS server metrics, Twitter volume, advertisement clicking metrics, traffic data, and more. All data is included in the repository, with more details in the data readme. We are in the process of adding more data, and actively searching for more data. Please contact at nab@numenta.org if you have similar data (ideally with known anomalies) that you would like to see incorporated into NAB.
 
 The NAB version will be updated whenever new data (and corresponding labels) is added to the corpus; NAB is currently in v1.0.
 
